@@ -1,9 +1,8 @@
 # Hiring-prediction-xgboost
 
-Este proyecto implementa un modelo de clasificación para predecir si un candidato será contratado o no a partir de un dataset de reclutamiento.  
-Se realiza un análisis exploratorio de los datos, se preparan las variables para entrenamiento y se usa **XGBoost** para construir un clasificador.
+Este proyecto implementa un modelo de clasificación para predecir si un candidato será contratado o no a partir de un dataset de reclutamiento. Se realiza un análisis exploratorio de los datos, se preparan las variables para entrenamiento y se usa **XGBoost** para construir un clasificador.
 
-### 🔎 Flujo del proyecto
+### Flujo del proyecto
 - Exploración del dataset  
 - Revisión de tipos de datos y valores faltantes  
 - División de datos en entrenamiento y prueba  
