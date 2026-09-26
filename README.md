@@ -14,3 +14,10 @@ Este trabajo demuestra la aplicación de **machine learning** en un caso prácti
 - Análisis de datos  
 - Modelado predictivo  
 - Validación de resultados  
+
+### Resultados
+| Métric   |   Result |
+|:---------|---------:|
+| Accuracy | 0.944444 |
+| Logloss  | 0.223232 |
+| AUC      | 0.960651 |
