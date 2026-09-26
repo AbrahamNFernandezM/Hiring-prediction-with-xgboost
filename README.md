@@ -1,21 +1,21 @@
 # Hiring prediction with xgboost
 
-Este proyecto implementa un modelo de clasificación para predecir si un candidato será contratado o no a partir de un dataset de reclutamiento. Se realiza un análisis exploratorio de los datos, se preparan las variables para entrenamiento y se usa **XGBoost** para construir un clasificador.
+This project implements a classification model to predict whether a candidate will be hired or not based on a recruitment dataset. An exploratory data analysis is performed, variables are prepared for training, and **XGBoost** is used to build a classifier.
 
-### Flujo del proyecto
-- Exploración del dataset  
-- Revisión de tipos de datos y valores faltantes  
-- División de datos en entrenamiento y prueba  
-- Entrenamiento del modelo con XGBoost  
-- Evaluación con métricas clave (accuracy, matriz de confusión, curva ROC)  
-- Visualización de resultados mediante curvas y matrices de confusión  
+### Project Workflow
+- Dataset exploration  
+- Review of data types and missing values  
+- Splitting data into training and test sets  
+- Model training with XGBoost  
+- Evaluation with key metrics (accuracy, confusion matrix, ROC curve)  
+- Visualization of results through curves and confusion matrices  
 
-Este trabajo demuestra la aplicación de **machine learning** en un caso práctico de recursos humanos, combinando:
-- Análisis de datos  
-- Modelado predictivo  
-- Validación de resultados  
+This work demonstrates the application of **machine learning** in a practical human resources case, combining:
+- Data analysis  
+- Predictive modeling  
+- Results validation  
 
-### Resultados
+### Results
 | Métric   |   Result |
 |:---------|---------:|
 | Accuracy | 0.944444 |
